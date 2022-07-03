@@ -1,7 +1,7 @@
 <h1 align="center"> 👋Hi there👋</h1>
 
 <div align = "center">
-  🌱 I’m currently learning in Pusan National University🌱
+  🌱 I’m currently studying in Pusan National University🌱
   <br><br>
   🤔 I’m studying Python, C, Javascript🤔
   <br><br>
