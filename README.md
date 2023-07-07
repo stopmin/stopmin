@@ -1,46 +1,34 @@
-<h1 align="center"> 👋Hi there👋</h1>
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20to%20Stopmin%20Github👋&fontAlign=70&color=gradient&fontSize=30)
 
-<div align = "center">
-  🌱 I’m currently studying in Pusan National University 🌱
-  <br><br>
-  🤔 I’m studying C++ & Swift 🤔
-  <br><br>
- ✏️ I learned ✏️
+<h3>안녕하세요!</h3>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&repeat=false&width=435&height=50&lines=저는+정지민입니다😀)](https://git.io/typing-svg)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stopmin)](https://github.com/stopmin/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Stopmin&theme=onedark-duo)](https://git.io/streak-stats)
+
+
+<h3>최근 관심 분야</h3>
+
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="60" height="60" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="60" height="60" />
+</div>
+
+<h3>스택</h3>
+<div align="left">
   <br>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   <br>
-  <br>
-  😄 Pronouns: always smile, greatly ambitious, constantly working hard😄
-  <br><br>
-  
-
-  
-  
-
-
-  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=geemin2514)](https://solved.ac/geemin2514/)
-  
 </div>
 
 
+아직 수정 중.........
 
 
-<!--
-**stopmin/stopmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stopmin&show_icons=true&theme=tokyonight)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stopmin&layout=compact&theme=tokyonight)
-- 🔭 I’m currently working on PNU
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="44" height="44" /> --!>
