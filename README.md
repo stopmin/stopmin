@@ -14,15 +14,15 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Stopmin&theme=onedark-duo)](https://git.io/streak-stats)
 
 
-<h3>Studying</h3>
+<h3>Currently Studying</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> &nbsp 
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> &nbsp 
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> &nbsp 
+  
 </div>
 
 <div style="display: flex; align-items: flex-start;">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="60" height="60" />
+  
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="60" height="60" />
 </div>
 
@@ -33,10 +33,11 @@
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> &nbsp 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> &nbsp 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> &nbsp 
-  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> &nbsp 
-  <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"> &nbsp 
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">&nbsp 
+ 
   <br>
 </div>
 
 
 <!-- <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="44" height="44" /> --!>
+<!-- <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="60" height="60" /> &nbsp --!>
