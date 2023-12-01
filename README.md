@@ -38,6 +38,13 @@
   <br>
 </div>
 
+<div>
+  <h3>Algorithm</h3>
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=geemin2514)](https://solved.ac/geemin2514/)
+  
+</div>
+
 
 <!-- <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="44" height="44" /> --!>
 <!-- <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="60" height="60" /> &nbsp --!>
