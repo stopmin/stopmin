@@ -15,7 +15,7 @@
 
 ## Currently Studying
 
-`spring`, `kotlin`, `java`
+`Spring`, `Kotlin`, `Java`
 
 <div style="display: flex; align-items: flex-start;">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="60" height="60" />
