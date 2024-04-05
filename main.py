@@ -32,12 +32,7 @@ markdown_text = """
 ## Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=geemin2514)](https://solved.ac/geemin2514/)
   
-
-
-<!-- <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="44" height="44" /> --!>
-<!-- <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="60" height="60" /> &nbsp --!>
-
-
+## 📝 Latest Posting
 """  # list of blog posts will be appended here
 
 for idx, feed in enumerate(RSS_FEED['entries']):
