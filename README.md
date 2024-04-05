@@ -7,7 +7,7 @@
 
 ## 📎 Currently Studying
 - `Spring`, `Kotlin`, `Java`
-- And I'm Currently Interested at Deploying(`ECS`, `ELB`)
+- And I'm Currently Interested at Deploying
 
 ## 📝 Latest Posting
 - [2024/03/31 - [Spring MVC] 로깅(Logging)](https://stopmin.tistory.com/entry/Spring-MVC-%EB%A1%9C%EA%B9%85Logging)  
