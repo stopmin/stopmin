@@ -13,7 +13,7 @@ markdown_text = """
 
 ## 📎 Currently Studying
 - `Spring`, `Kotlin`, `Java`
-- And I'm Currently Interested at Deploying
+- And I'm Currently Interested In Deploying
 
 ## 📝 Latest Posting
 """  # list of blog posts will be appended here
