@@ -41,12 +41,13 @@ markdown_text = """
 """  # list of blog posts will be appended here
 
 for idx, feed in enumerate(RSS_FEED['entries']):
-    if idx > MAX_POST:
+    if idx >= MAX_POST:  # '>= MAX_POST' 사용하여 정확한 포스트 수를 맞춥니다.
         break
     else:
         feed_date = feed['published_parsed']
-        markdown_text += f"[{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({feed['link']}) <br/>\n"
+        # Markdown에서의 줄 바꿈 처리를 위해 라인 끝에 공백 두 개 추가
+        markdown_text += f"[{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({feed['link']})  \n"
         
-f = open("README.md", mode="w", encoding="utf-8")
-f.write(markdown_text)
-f.close()
+with open("README.md", "w", encoding="utf-8") as f:
+    f.write(markdown_text)
+
