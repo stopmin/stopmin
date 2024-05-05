@@ -10,7 +10,7 @@
 - And I'm Currently Interested In Deploying
 
 ## 📝 Latest Posting
-- [2024/05/02 - [Python] FastAPI Logging - correlation ID (uuid)](https://stopmin.tistory.com/entry/Python-FastAPI-Logging-correlation-ID-uuid)  
+- [2024/05/02 - [Python] FastAPI Logging - correlation ID (middleware &amp; uuid)](https://stopmin.tistory.com/entry/Python-FastAPI-Logging-correlation-ID-uuid)  
 - [2024/04/29 - [백준] 12851 숨바꼭질 2(C++)](https://stopmin.tistory.com/entry/%EB%B0%B1%EC%A4%80-12851-%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88C)  
 - [2024/04/27 - 객체를 접근하는 권한 이해하기](https://stopmin.tistory.com/entry/%EA%B0%9D%EC%B2%B4%EB%A5%BC-%EC%A0%91%EA%B7%BC%ED%95%98%EB%8A%94-%EA%B6%8C%ED%95%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)  
 - [2024/04/20 - 클래스의 종류](https://stopmin.tistory.com/entry/%ED%81%B4%EB%9E%98%EC%8A%A4%EC%9D%98-%EC%A2%85%EB%A5%98)  
