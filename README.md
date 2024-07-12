@@ -5,10 +5,9 @@
 ## GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=Stopmin&theme=onedark-duo)](https://git.io/streak-stats)
 
-## 📎 Stack
-- `Spring`, `Kotlin`, `Java`, `FastAPI`
-- `AWS Deployment`
-- And I'm Currently Study In `NextJS` (Just scratching the surface for a project!)
+## 📎 Currently Studying
+- `Spring`, `Kotlin`, `Java`
+- And I'm Currently Interested In Deploying
 
 ## 📝 Latest Posting
 - [2024/07/11 - 현장실습을 마치며 (백엔드 기술적인 회고는 To Be Implemented)](https://stopmin.tistory.com/entry/%ED%98%84%EC%9E%A5%EC%8B%A4%EC%8A%B5%EC%9D%84-%EB%A7%88%EC%B9%98%EB%A9%B0-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B8%B0%EC%88%A0%EC%A0%81%EC%9D%B8-%ED%9A%8C%EA%B3%A0%EB%8A%94-To-Be-Implemented)  
