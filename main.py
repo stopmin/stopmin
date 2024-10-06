@@ -8,8 +8,6 @@ markdown_text = """
 ## 안녕하세요!
 부산대학교 정보컴퓨터공학부 22학번 정지민입니다.
 
-## 📔 Portfolio
-[My Portfolio](https://bubble-pick-143.notion.site/d3886ad6267e4a598b3fa2b6528d8143?pvs=4)
 
 ## GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=Stopmin&theme=onedark-duo)](https://git.io/streak-stats)
