@@ -27,11 +27,15 @@ jobs:
       run: |
         python main.py
     - name: Update README.md file
-      run: | 
+      run: |
         git pull
         git add .
-        git diff
-        git config --local user.email "geemin0@naver.com"
-        git config --local user.name "stopmin"
-        git commit -m "Updating Blog Posts"
-        git push
+        # 변경 사항이 있는 경우에만 커밋 및 푸시
+        if ! git diff-index --quiet HEAD; then
+          git config --local user.email "geemin0@naver.com"
+          git config --local user.name "stopmin"
+          git commit -m "Updating Blog Posts"
+          git push
+        else
+          echo "No changes to commit"
+        fi
