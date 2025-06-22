@@ -2,6 +2,8 @@
 ## 안녕하세요!
 부산대학교 정보컴퓨터공학부 22학번 정지민입니다.
 
+## 📄 Resume
+- [View My Resume on Rallit](https://www.rallit.com/resumes/65210@geemin0/%EC%A0%95%EC%A7%80%EB%AF%BC)
 
 ## GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=Stopmin&theme=onedark-duo)](https://git.io/streak-stats)
